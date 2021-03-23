@@ -3,5 +3,5 @@ type: module
 core_version_requirement: '^8.9 || ^9'
 dependencies:
   - webform
-version: '0.1'
+version: '1.0'
 package: HELfi
