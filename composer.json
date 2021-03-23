@@ -1,0 +1,7 @@
+{
+    "name": "drupal/helfi_grant_applications_config",
+    "description": "Grant Applciations config",
+    "type": "drupal-custom-module",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev"
+}
