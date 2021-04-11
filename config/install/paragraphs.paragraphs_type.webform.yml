@@ -1,0 +1,10 @@
+uuid: 45c373f3-ce1f-4199-9fa4-8b2b95a30240
+langcode: fi
+status: true
+dependencies: {  }
+id: webform
+label: Webform
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }
